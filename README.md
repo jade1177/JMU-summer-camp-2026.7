@@ -1,4 +1,4 @@
-# JMU-summer-camp-2026.7
+# JMU-summer-camp-2026
 # JMU Summer Camp 2026 — 暑期培训复盘
 
 &gt; 集美大学计算机科学与技术专业 | 大一升大二  
