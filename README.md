@@ -26,7 +26,7 @@
 | 10 | 8.2 | 多层感知机（MLP）数学原理 | [Day11-MLP手写数字识别.md](./Day11-MLP手写数字识别.md)] | - |
 | 11 | 8.3 | CNN图像分类与PyTorch入门 | [Day12深度学习入门.md](./Day12深度学习入门.md) | - |
 | 12 | 8.4 | 硬件开发基础（Arduino） | [https://bcnwljv160tz.feishu.cn/wiki/EZdlwNgQaiNqeOkpERZcl90JnIc] | - |
-| 13+ | 8.7 | 结项项目（小组） | [待补充] | [仓库链接] |
+| 13+ | 8.7 | 结项项目（小组） |  | [https://gitee.com/lxxin1121/douzero_bot] |
 
 ---
 
